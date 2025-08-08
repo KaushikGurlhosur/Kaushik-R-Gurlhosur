@@ -1,0 +1,13 @@
+# Kaushik Gurlhosur – Tandemloop First Screening Test
+
+## Language Used:
+JavaScript
+
+## How to Run:
+Use Node.js, VS-code or any compiler to run each file:
+
+```bash
+node Problem-1.js
+node Problem-2.js
+node Problem-3.js
+node Problem-4.js
